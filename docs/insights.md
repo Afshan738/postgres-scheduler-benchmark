@@ -77,7 +77,7 @@ That is 858 times faster.
 
 ### The code
 
-GitHub: github.com/Afshan738/postgres-scheduler-benchmark
+GitHub: https://github.com/Afshan738/postgres-scheduler-benchmark
 
 Run it yourself:
 
