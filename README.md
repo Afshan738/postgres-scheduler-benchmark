@@ -2,7 +2,7 @@
 
 Production-grade benchmark comparing PostgreSQL scheduler patterns. From 121ms to 0.141ms using indexes and LIMIT. 500k URL simulation with real production patterns.
 
----
+
 
 ## Quick Start
 
@@ -30,14 +30,22 @@ When not to use an index
 
 ## Lab Files
 
-File What it shows
+### File What it shows
+
 lab/01_baseline.sql Run query without index
+
 lab/02_create_index.sql Add B-tree index
+
 lab/03_after_index.sql See the improvement
+
 lab/04_partial_index.sql Create smaller index
+
 lab/05_size_comparison.sql Compare index sizes
+
 lab/06_drop_index.sql Remove index to test
+
 lab/07_disable_indexscan.sql Force different scan method
+
 lab/08_final_query.sql Production ready query
 
 ## Three Ways to Use This Lab
@@ -90,6 +98,6 @@ docker-compose down -v
 
 ## Connect
 
-GitHub: github.com/Afshan738
+GitHub: https://github.com/Afshan738
 
-LinkedIn: linkedin.com/in/afshan-qasim-998917300
+LinkedIn: https://www.linkedin.com/in/afshan-qasim-998917300/
