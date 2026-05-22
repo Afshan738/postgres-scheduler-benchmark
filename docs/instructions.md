@@ -82,12 +82,19 @@ docker-compose down -v
 
 Lab Concept
 01 Sequential scan reads all rows
+
 02 How to create an index
+
 03 Index scan is much faster
+
 04 Partial indexes for filtered queries
+
 05 Partial indexes are smaller
+
 06 Prove the index was helping
+
 07 See what happens without index scan
+
 08 Production ready query
 
 ## Troubleshooting
@@ -106,6 +113,6 @@ Update port in benchmarks/run.js to match
 
 ## Connect
 
-GitHub: github.com/Afshan738
+GitHub: https://github.com/Afshan738/postgres-scheduler-benchmark
 
-LinkedIn: linkedin.com/in/afshan-qasim-998917300
+LinkedIn: https://www.linkedin.com/in/afshan-qasim-998917300/
