@@ -2,7 +2,7 @@
 
 Production-grade benchmark comparing PostgreSQL scheduler patterns. From 121ms to 0.141ms using indexes and LIMIT. 500k URL simulation with real production patterns.
 
-Benchmark numbers vary run-to-run depending on cache state and system load — see the full writeup linked below for one complete run with EXPLAIN ANALYZE output at every step
+Benchmark numbers vary run-to-run depending on cache state and system load, see the full writeup linked below for one complete run with EXPLAIN ANALYZE output at every step
 
 ## Quick Start
 
